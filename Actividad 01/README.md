@@ -1,2 +1,2 @@
 # imt2200_actividad1
-Edite este archivo agregando información útil para quien lo revise.
+Este repositorio, corresponde a la primera actividad del curso de Introducción a la Ciencia de Datos. En él, se trabaja en python con diversas librerías para el análisis y la visualización de datos del Censo correspondiente al año 2017. Lo que hice fue ejecutar cada celda de código, para que finalmente se proyectase en pantalla un mapa en el que se distribuyó mediante la intensidad de determinado color (En mi caso elegí el RdPu) la distribución de la población por manzana registrada según los datos del Censo que mencioné antes, todo esto con una modificación en el título de la imagen para que saliera que yo lo ejecuté.  
